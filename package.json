@@ -26,6 +26,10 @@
       "react-app/jest"
     ]
   },
+  "engines": {
+    "node": "0.12.x",
+    "npm": "2.5.x"
+  },
   "dependencies": {
     "@coreui/chartjs": "^3.0.0",
     "@coreui/coreui": "^4.1.0",
